@@ -27,7 +27,7 @@
     "vuex": "^3.4.0",
     "webrtc-adapter": "^7.6.0",
     "websocket-extensions": "^0.1.4",
-    "ws": "^7.3.0"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.3.0",
