@@ -15,7 +15,7 @@
     "fibers": "^5.0.0",
     "microbit-web-bluetooth": "github:thegecko/microbit-web-bluetooth#master",
     "mqtt": "^4.0.1",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "node-static": "^0.7.11",
     "socket.io": "^2.3.0",
     "utf-8-validate": "^5.0.2",
