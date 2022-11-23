@@ -17,7 +17,7 @@
     "mqtt": "^4.0.1",
     "node-sass": "^4.14.1",
     "node-static": "^0.7.11",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.5.0",
     "utf-8-validate": "^5.0.2",
     "uws": "^10.148.1",
     "v-hotkey": "^0.8.0",
